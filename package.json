@@ -1,0 +1,16 @@
+{
+  "name": "blockchainauction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat coverage"
+  },
+  "author": "Daniil Petrushenko",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0",
+    "solidity-coverage": "^0.8.2"
+  }
+}
